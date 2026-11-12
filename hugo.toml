@@ -1,0 +1,6 @@
+baseURL = 'https://k8dez.link/'
+locale = 'en-US'
+title = 'K8DEZ'
+timeZone = 'America/Chicago'
+
+disableKinds = ['taxonomy', 'term']
